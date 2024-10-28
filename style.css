@@ -1,17 +1,17 @@
 body {
-  font-family: HK Grotesk;
-  background-color: white;
+  font-family: Georgia, serif;
+  background-color: orange;
 }
 
 p {
-  font-family: Arial;
+  font-family: cursive;
   font-size: 18px;
 }
 
 h1 {
-  font-family: Arial;
-  font-size: 40px;
-  color: #000000;
+  font-family: Georgia, serif;
+  font-size: 32px;
+  color: #051f7a
 }
 
 .fancy {
