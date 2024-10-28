@@ -4,18 +4,18 @@ body {
 }
 
 p {
-  font-family: cursive;
-  font-size: 18px;
+  font-family: Georgia,bold;
+  font-size: 24px;
 }
 
 h1 {
-  font-family: Georgia, serif;
+  font-family: cursive, bold;
   font-size: 32px;
   color: #051f7a
 }
 
 .fancy {
-  font-family: 'Brush Script MT', cursive;
-  font-size: 30px;
-  color: #a83297
+  font-family: Georgia,bold;
+  font-size: 20px;
+  color: #a0836a0
 }
